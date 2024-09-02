@@ -44,18 +44,23 @@ body {
 }
 
 .breadcrumb .active {
-    color: #fbf4dc !important;
+    color: rgb(26, 39, 75) !important;
+}
+
+.breadcrumb a {
+    color: rgb(26, 39, 75) !important;
 }
 
 .alert {
-    background: red;
+    background: rgba(11, 18, 43, 0.8);
     border: 1px solid #fbf4dc;
     color: #fbf4dc !important;
 }
 
 .alert-warning,
 .alert-danger {
-    background: red;
+    background: #fbf4dc;
+    color: rgb(11, 18, 43);
 }
 
 .feature,
@@ -65,7 +70,7 @@ div.left {
 }
 
 .panel {
-    background: red !important;
+    background: rgba(11, 18, 43, 0.8) !important;
     border: none !important;
     box-shadow: none !important;
 }
@@ -109,11 +114,14 @@ h3 {
     border-collapse: separate;
 }
 
+.th {
+    background: rgba(11, 18, 43, 0.8) !important;
+}
+
 .top,
 .bottom,
-th,
 .table .left {
-    background: rgba(11, 18, 43, 0.8) !important;
+    background: rgba(16, 28, 70, 0.8) !important;
     color: #fbf4dc !important;
 }
 
@@ -150,14 +158,14 @@ a:hover {
 input,
 select,
 textarea {
-    background: red !important;
-    border: 1px solid #fbf4dc !important;
+    background: #fbf4dc !important;
+    border: 1px solid rgb(11, 18, 43) !important;
     box-shadow: none !important;
-    color: #fbf4dc !important;
+    color: rgb(11, 18, 43) !important;
     text-shadow: none !important;
 }
 
 input[type=button]:hover,
 input[type=submit]:hover {
-    background: rgba(255, 208, 55, 0.8) !important;
+    background: rgb(255, 208, 55) !important;
 }
