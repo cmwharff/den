@@ -83,10 +83,6 @@ div.left {
     color: #fbf4dc !important;
 }
 
-.progress-bar {
-    background: red;
-}
-
 .chat_light {
     background: red;
     text-align: center;
@@ -168,4 +164,12 @@ textarea {
 input[type=button]:hover,
 input[type=submit]:hover {
     background: rgb(255, 208, 55) !important;
+}
+
+.progress div {
+    color: rgb(11, 18, 43);
+}
+
+.progress-bar {
+    background: #fbf4dc;
 }
