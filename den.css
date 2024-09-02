@@ -184,12 +184,12 @@ input[type=submit]:hover {
 }
 
 #commentBox {
-    border: 1px solid #fbf4dc;
+    border: 1px solid #fbf4dc !important;
     background-color: rgba(11, 18, 43, 0.8);
 }
 
 .comment:nth-child(even) {
-    background-color: rgba(21, 32, 72, 0.8);
+    background-color: rgba(34, 50, 108, 0.8);
 }
 
 .text-muted {
