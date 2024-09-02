@@ -16,7 +16,7 @@ body {
 
 .navbar {
     background: rgba(126, 100, 86, 0.8);
-    border-bottom: 2px solid black;
+    border-bottom: 2px solid #fbf4dc;
     font-family: Julius Sans One;
 }
 
@@ -30,7 +30,7 @@ body {
 
 .container.main {
     background: rgba(150, 139, 122, 0.8);
-    border: 1px solid black;
+    border: 1px solid #fbf4dc;
     box-shadow: none;
 }
 
@@ -48,7 +48,7 @@ body {
 
 .alert {
     background: rgba(150, 139, 122, 0.8);
-    border: 1px solid black;
+    border: 1px solid #fbf4dc;
     color: #fbf4dc !important;
 }
 
@@ -60,7 +60,7 @@ body {
 .feature,
 div.left {
     background: rgba(137, 117, 100, 0.8) !important;
-    border: 1px solid black !important;
+    border: 1px solid #fbf4dc !important;
 }
 
 .panel {
@@ -84,7 +84,7 @@ div.left {
 .chat_light {
     background: rgba(223, 215, 205, 0.8);
     text-align: center;
-    border: 1px solid black;
+    border: 1px solid #fbf4dc;
     border-bottom: none;
 }
 
@@ -104,7 +104,7 @@ h3 {
 
 .table {
     background: rgba(223, 215, 205, 0.8);
-    border: 1px solid black;
+    border: 1px solid #fbf4dc;
     border-collapse: separate;
 }
 
@@ -135,7 +135,7 @@ th,
 .cave-grid,
 .mound-grid {
     background: rgba(126, 100, 86, 0.8);
-    border: 1px solid black;
+    border: 1px solid #fbf4dc;
 }
 
 a {
@@ -150,7 +150,7 @@ input,
 select,
 textarea {
     background: rgba(223, 215, 205, 0.8) !important;
-    border: 1px solid black !important;
+    border: 1px solid #fbf4dc !important;
     box-shadow: none !important;
     color: #fbf4dc !important;
     text-shadow: none !important;
