@@ -8,7 +8,7 @@ body {
 }
 
 .topbar {
-    background: rgb(26, 39, 75);
+    background: rgba(26, 39, 75, 0.7);
     border: 1px solid rgb(251, 244, 220);
     border-top: none;
     color: #fbf4dc !important;
