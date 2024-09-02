@@ -48,24 +48,24 @@ body {
 }
 
 .alert {
-    background: rgba(150, 139, 122, 0.8);
+    background: red;
     border: 1px solid #fbf4dc;
     color: #fbf4dc !important;
 }
 
 .alert-warning,
 .alert-danger {
-    background: rgba(144, 90, 93, 0.8);
+    background: red;
 }
 
 .feature,
 div.left {
-    background: rgba(137, 117, 100, 0.8) !important;
+    background: red !important;
     border: 1px solid #fbf4dc !important;
 }
 
 .panel {
-    background: rgba(223, 215, 205, 0.8) !important;
+    background: red !important;
     border: none !important;
     box-shadow: none !important;
 }
@@ -79,11 +79,11 @@ div.left {
 }
 
 .progress-bar {
-    background: rgba(144, 90, 93, 0.8);
+    background: red;
 }
 
 .chat_light {
-    background: rgba(223, 215, 205, 0.8);
+    background: red;
     text-align: center;
     border: 1px solid #fbf4dc;
     border-bottom: none;
@@ -104,7 +104,7 @@ h3 {
 }
 
 .table {
-    background: rgba(223, 215, 205, 0.8);
+    background: red;
     border: 1px solid #fbf4dc;
     border-collapse: separate;
 }
@@ -118,19 +118,19 @@ th,
 }
 
 .inner-table .left {
-    background: rgba(137, 117, 100, 0.8) !important;
+    background: red !important;
 }
 
 .inner-table .right {
-    background: rgba(223, 215, 205, 0.8)
+    background: red;
 }
 
 .right_odd {
-    background: rgba(150, 139, 122, 0.8) !important;
+    background: red !important;
 }
 
 .right_cub {
-    background: rgba(144, 90, 93, 0.8) !important;
+    background: red !important;
 }
 
 .cave-grid,
@@ -150,7 +150,7 @@ a:hover {
 input,
 select,
 textarea {
-    background: rgba(223, 215, 205, 0.8) !important;
+    background: red !important;
     border: 1px solid #fbf4dc !important;
     box-shadow: none !important;
     color: #fbf4dc !important;
