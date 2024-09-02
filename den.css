@@ -70,7 +70,7 @@ body {
 
 .feature,
 div.left {
-    background: greenyellow !important;
+    background: rgba(11, 18, 43, 0.8) !important;
     border: 1px solid #fbf4dc !important;
 }
 
@@ -130,19 +130,19 @@ h3 {
 }
 
 .inner-table .left {
-    background: red !important;
+    background: rgba(1, 5, 20, 0.8) !important;
 }
 
 .inner-table .right {
-    background: yellow;
+    background: rgba(16, 28, 70, 0.8);
 }
 
 .right_odd {
-    background: orange !important;
+    background: rgba(247, 248, 255, 0.1) !important;
 }
 
 .right_cub {
-    background: hotpink !important;
+    background: rgba(0, 0, 0, 0.2) !important;
 }
 
 .cave-grid,
@@ -162,7 +162,7 @@ a:hover {
 input,
 select,
 textarea {
-    background: #fbf4dc !important;
+    background: rgba(251, 244, 220, 0.8) !important;
     border: 1px solid rgb(11, 18, 43) !important;
     box-shadow: none !important;
     color: rgb(11, 18, 43) !important;
