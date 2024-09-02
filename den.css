@@ -25,7 +25,8 @@ body {
 }
 
 .navbar li a:hover {
-    background: rgba(1, 5, 20, 0.8) !important;
+    background: rgb(251, 244, 220) !important;
+    color: rgb(26, 39, 75) !important;
 }
 
 .container.main {
@@ -109,7 +110,7 @@ h3 {
 }
 
 .table {
-    background: red;
+    background: rgba(247, 248, 255, 0.1);
     border: 1px solid #fbf4dc;
     border-collapse: separate;
 }
@@ -117,7 +118,7 @@ h3 {
 .top,
 .bottom,
 .table th {
-    background: rgba(1, 8, 33, 0.8) !important;
+    background: rgba(1, 5, 20, 0.8) !important;
     color: #fbf4dc !important;
 }
 
@@ -175,6 +176,7 @@ input[type=submit]:hover {
 
 .progress div {
     color: rgb(11, 18, 43);
+    background-color: rgba(247, 248, 255, 0.6);
 }
 
 .progress-bar {
