@@ -111,7 +111,7 @@ h3 {
 
 .table {
     background: rgba(247, 248, 255, 0.1);
-    border: 1px solid #fbf4dc;
+    border: 1px solid rgb(251, 244, 220);
     border-collapse: separate;
 }
 
@@ -185,11 +185,11 @@ input[type=submit]:hover {
 
 #commentBox {
     border: 1px solid #fbf4dc !important;
-    background-color: rgba(11, 18, 43, 0.8);
+    background-color: rgba(247, 248, 255, 0.1);
 }
 
 .comment:nth-child(even) {
-    background-color: rgba(34, 50, 108, 0.8);
+    background-color: rgba(0, 0, 0, 0.3);
 }
 
 .text-muted {
