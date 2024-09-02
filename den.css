@@ -8,8 +8,8 @@ body {
 }
 
 .topbar {
-    background: #1a274b;
-    border: 1px solid #fbf4dc;
+    background: rgb(26, 39, 75);
+    border: 1px solid rgb(251, 244, 220);
     border-top: none;
     color: #fbf4dc;
 }
@@ -21,7 +21,7 @@ body {
 }
 
 .navbar li a {
-    color: black !important;
+    color: #fbf4dc !important;
 }
 
 .navbar li a:hover {
@@ -43,13 +43,13 @@ body {
 }
 
 .breadcrumb .active {
-    color: black;
+    color: #fbf4dc;
 }
 
 .alert {
     background: rgba(150, 139, 122, 0.8);
     border: 1px solid black;
-    color: black;
+    color: #fbf4dc;
 }
 
 .alert-warning,
@@ -74,7 +74,7 @@ div.left {
 }
 
 .progress-div {
-    color: black;
+    color: #fbf4dc;
 }
 
 .progress-bar {
@@ -93,12 +93,12 @@ div.left {
 }
 
 h1 {
-    color: black;
+    color: #fbf4dc;
     font-size: 48px;
 }
 
 h3 {
-    color: black !important;
+    color: #fbf4dc !important;
     font-size: 24px !important;
 }
 
@@ -113,7 +113,7 @@ h3 {
 th,
 .table .left {
     background: rgba(126, 100, 86, 0.8) !important;
-    color: black !important;
+    color: #fbf4dc !important;
 }
 
 .inner-table .left {
@@ -140,11 +140,11 @@ th,
 
 a:link,
 a:visited {
-    color: black !important;
+    color: #fbf4dc !important;
 }
 
 a:hover {
-    color: brown !important;
+    color: #ffd037 !important;
 }
 
 input,
@@ -153,7 +153,7 @@ textarea {
     background: rgba(223, 215, 205, 0.8) !important;
     border: 1px solid black !important;
     box-shadow: none !important;
-    color: black !important;
+    color: #fbf4dc !important;
     text-shadow: none !important;
 }
 
