@@ -4,14 +4,14 @@ body {
     background: url('https://imgur.com/UObCMol.jpeg') top center fixed;
     background-size: 100%;
     font-family: "SUSE", sans-serif;
-    color: #fbf4dc;
+    color: #fbf4dc !important;
 }
 
 .topbar {
     background: rgb(26, 39, 75);
     border: 1px solid rgb(251, 244, 220);
     border-top: none;
-    color: #fbf4dc;
+    color: #fbf4dc !important;
 }
 
 .navbar {
@@ -43,13 +43,13 @@ body {
 }
 
 .breadcrumb .active {
-    color: #fbf4dc;
+    color: #fbf4dc !important;
 }
 
 .alert {
     background: rgba(150, 139, 122, 0.8);
     border: 1px solid black;
-    color: #fbf4dc;
+    color: #fbf4dc !important;
 }
 
 .alert-warning,
@@ -74,7 +74,7 @@ div.left {
 }
 
 .progress-div {
-    color: #fbf4dc;
+    color: #fbf4dc !important;
 }
 
 .progress-bar {
@@ -93,7 +93,7 @@ div.left {
 }
 
 h1 {
-    color: #fbf4dc;
+    color: #fbf4dc !important;
     font-size: 48px;
 }
 
