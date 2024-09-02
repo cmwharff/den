@@ -15,9 +15,9 @@ body {
 }
 
 .navbar {
-    background: rgba(126, 100, 86, 0.8);
+    background: rgba(11, 18, 43, 0.8);
     border-bottom: 2px solid #fbf4dc;
-    font-family: Julius Sans One;
+    font-family: "SUSE", sans-serif;
 }
 
 .navbar li a {
@@ -25,11 +25,11 @@ body {
 }
 
 .navbar li a:hover {
-    background: rgba(144, 90, 93, 0.8) !important;
+    background: rgba(1, 5, 20, 0.8) !important;
 }
 
 .container.main {
-    background: rgba(150, 139, 122, 0.8);
+    background: rgba(26, 39, 75, 0.7);
     border: 1px solid #fbf4dc;
     box-shadow: none;
 }
@@ -39,7 +39,8 @@ body {
 }
 
 .breadcrumb {
-    background: rgba(223, 215, 205, 0.8);
+    background: rgba(251, 244, 220, 0.8);
+    color: rgb(26, 39, 75);
 }
 
 .breadcrumb .active {
@@ -89,7 +90,7 @@ div.left {
 }
 
 .chat_dark {
-    background: rgba(126, 100, 86, 0.8);
+    background: rgba(11, 18, 43, 0.8);
 }
 
 h1 {
@@ -112,7 +113,7 @@ h3 {
 .bottom,
 th,
 .table .left {
-    background: rgba(126, 100, 86, 0.8) !important;
+    background: rgba(11, 18, 43, 0.8) !important;
     color: #fbf4dc !important;
 }
 
@@ -134,7 +135,7 @@ th,
 
 .cave-grid,
 .mound-grid {
-    background: rgba(126, 100, 86, 0.8);
+    background: rgba(11, 18, 43, 0.8);
     border: 1px solid #fbf4dc;
 }
 
@@ -143,7 +144,7 @@ a {
 }
 
 a:hover {
-    color: #ffd037 !important;
+    color: rgb(255, 208, 55) !important;
 }
 
 input,
@@ -158,5 +159,5 @@ textarea {
 
 input[type=button]:hover,
 input[type=submit]:hover {
-    background: rgba(144, 90, 93, 0.8) !important;
+    background: rgba(255, 208, 55, 0.8) !important;
 }
