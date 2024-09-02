@@ -70,7 +70,7 @@ body {
 
 .feature,
 div.left {
-    background: red !important;
+    background: greenyellow !important;
     border: 1px solid #fbf4dc !important;
 }
 
@@ -89,7 +89,7 @@ div.left {
 }
 
 .chat_light {
-    background: red;
+    background: blueviolet;
     text-align: center;
     border: 1px solid #fbf4dc;
     border-bottom: none;
@@ -134,15 +134,15 @@ h3 {
 }
 
 .inner-table .right {
-    background: red;
+    background: yellow;
 }
 
 .right_odd {
-    background: red !important;
+    background: orange !important;
 }
 
 .right_cub {
-    background: red !important;
+    background: hotpink !important;
 }
 
 .cave-grid,
