@@ -182,3 +182,16 @@ input[type=submit]:hover {
 .progress-bar {
     background: #fbf4dc;
 }
+
+#commentBox {
+    border: 1px solid #fbf4dc;
+    background-color: rgba(11, 18, 43, 0.8);
+}
+
+.comment:nth-child(even) {
+    background-color: rgba(21, 32, 72, 0.8);
+}
+
+.text-muted {
+    color: #a4a299;
+}
