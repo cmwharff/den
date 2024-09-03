@@ -2,7 +2,7 @@
 
 body {
     background: url('https://imgur.com/UObCMol.jpeg') top center fixed;
-    background-size: 100%;
+    background-size: 120%;
     font-family: "SUSE", sans-serif;
     color: #fbf4dc !important;
 }
@@ -194,4 +194,14 @@ input[type=submit]:hover {
 
 .text-muted {
     color: #a4a299;
+}
+
+#label_currentChannel {
+    background-color: #fbf4dc !important;
+}
+
+button {
+    background-color: #fbf4dc;
+    color: rgb(11, 18, 43);
+    border: 1px solid rgb(11, 18, 43);
 }
