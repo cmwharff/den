@@ -195,3 +195,7 @@ input[type=submit]:hover {
 .text-muted {
     color: #a4a299;
 }
+
+img {
+    border: 1px solid #fbf4dc !important;
+}
