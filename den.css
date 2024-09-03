@@ -57,14 +57,14 @@ body {
 }
 
 .alert {
-    background: rgba(11, 18, 43, 0.8);
     border: 1px solid #fbf4dc;
-    color: #fbf4dc !important;
+    background: rgba(251, 244, 220, 0.8);
+    color: rgb(11, 18, 43);
 }
 
 .alert-warning,
 .alert-danger {
-    background: #fbf4dc;
+    background: rgba(251, 244, 220, 0.8);
     color: rgb(11, 18, 43);
 }
 
